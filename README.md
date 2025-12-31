@@ -31,6 +31,6 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" title="Python"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
-![Shahkweb](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![codeby.umar](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
