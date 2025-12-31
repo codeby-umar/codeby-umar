@@ -1,4 +1,4 @@
-<h1>👋 Hi , Turg'unboyov Shakhriyor</h1>
+<h1>👋 Hi , Turg'unboyov Muhammad Umar</h1>
 
 💻 **Frontend Developer** | 2️⃣ years of experience  
 🛠️ Currently learning **Backend Development**  
@@ -10,7 +10,7 @@
     <img alt="X Followers" src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" style="vertical-align: middle;">
 </a>
 
-<a href="https://www.instagram.com/shahkweb/_" target="_blank" style="text-decoration: none; display: inline-block;">
+<a href="https://www.instagram.com/codeby.umar/_" target="_blank" style="text-decoration: none; display: inline-block;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" style="vertical-align: middle;">
     <img alt="Instagram Followers" src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" style="vertical-align: middle;">
 </a>
