@@ -1,4 +1,4 @@
-<h1>👋 Hi , Turg'unboyov Muhammad Umar</h1>
+<h1>👋 Hi , Muhammad Umar</h1>
 
 💻 **Frontend Developer** | 2️⃣ years of experience  
 🛠️ Currently learning **Backend Development**  
