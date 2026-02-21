@@ -6,12 +6,10 @@
 
 
 <a href="https://x.com/Shahkweb" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="30px" style="vertical-align: middle;">
     <img alt="X Followers" src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" style="vertical-align: middle;">
 </a>
 
 <a href="https://www.instagram.com/codeby.umar/_" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="30px" style="vertical-align: middle;">
     <img alt="Instagram Followers" src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" style="vertical-align: middle;">
 </a>
 
