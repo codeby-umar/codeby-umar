@@ -1,6 +1,6 @@
 <h1>👋 Hi , Muhammad Umar</h1>
 
-💻 **Frontend Developer** | 2️⃣ years of experience  
+💻 **Frontend Developer** | 1 years of experience  
 🛠️ Currently learning **Backend Development**  
 📂 Passionate about **coding, building projects, and learning new technologies**
 
