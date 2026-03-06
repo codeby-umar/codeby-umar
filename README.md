@@ -34,6 +34,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
-![codeby.umar](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
+<p align="start">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-umar&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+</p>
