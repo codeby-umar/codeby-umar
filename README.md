@@ -30,6 +30,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
+<p align="start">
+  <img src="https://raw.githubusercontent.com/yetimdasturchi/yetimdasturchi/output/snake.svg" alt="Snake animation" height="200px" />
+</p>
+
 
 
 
