@@ -34,6 +34,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
-<p align="start">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-umar&theme=tokyo-night&area=true&hide_border=true&bg_color=0D1117" width="100%" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codeby-umar&theme=tokyonight" width="100%" />
 </p>
+
+
+
+
+
