@@ -1,4 +1,4 @@
-# 
+
 # <samp><span>$\color{#22c55e}{\text{Hi}}$ </span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
 > <samp><b>🛠️ Currently learning</b> | <kbd>Backend Development</kbd></samp>  
