@@ -1,8 +1,7 @@
-<h1>👋 Hi , Muhammad Umar</h1>
-
-💻 **Frontend Developer** | 1 years of experience  
-🛠️ Currently learning **Backend Development**  
-📂 Passionate about **coding, building projects, and learning new technologies**
+# <samp>Hi, I'm <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
+> <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
+> <samp><b>🛠️ Currently learning</b> | <kbd>Backend Development</kbd></samp>  
+> <samp><b>📂 Passionate about</b> | coding, building projects, and learning new tech</samp>
 
 
 <a href="https://x.com/Shahkweb" target="_blank" style="text-decoration: none; display: inline-block;">
