@@ -4,16 +4,12 @@
 > <samp><b>📂 Passionate about</b> | coding, building projects, and learning new tech</samp>
 
 
-<a href="https://x.com/Shahkweb" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img alt="X Followers" src="https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x" style="vertical-align: middle;">
-</a>
-
-<a href="https://www.instagram.com/codeby.umar/_" target="_blank" style="text-decoration: none; display: inline-block;">
-    <img alt="Instagram Followers" src="https://img.shields.io/badge/Instagram-Follow-blue?style=for-the-badge&logo=instagram" style="vertical-align: middle;">
-</a>
+<p align="left flex center gap-7">
+<a href="https://t.me/codingbyumar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" height="35" /></a>     <a href="https://www.instagram.com/codeby.umar/_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" /></a>
+</p>
 
 
-### 💻 Languages & Tools I Work With
+### 🛠️ Tech Stack
 
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" title="HTML5"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" title="CSS3"></code>
