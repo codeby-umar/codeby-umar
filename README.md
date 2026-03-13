@@ -30,7 +30,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
-
+<p align="center">
+<img  src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=120&section=footer"/>
+</p>
 
 
 
