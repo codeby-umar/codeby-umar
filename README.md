@@ -30,6 +30,23 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
+<div align="center">
+<!-- <picture>
+  <source media="(prefers-color-scheme: dark)" 
+  srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
+  <source media="(prefers-color-scheme: light)" 
+  srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
+  <img alt="github contribution grid snake animation" 
+  src="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%">
+</picture> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 <p align="center">
 <img  src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8FF,100:0047AB&height=120&section=footer"/>
 </p>
