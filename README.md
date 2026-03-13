@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
 
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
