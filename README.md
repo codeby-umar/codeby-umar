@@ -1,6 +1,9 @@
 <div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;TypeScript+%7C+Python+%7C+Node.js)](https://git.io/typing-svg)
+
 </div>
 
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
