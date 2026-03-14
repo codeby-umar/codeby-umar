@@ -1,21 +1,21 @@
-name: Generate Monkeytype SVG
+name: Monkeytype Stats
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Monkeytype Readme SVG
+      - name: Monkeytype Readme
         uses: monkeytype-hub/monkeytype-readme@v1.0.0
         with:
-          username: YOUR_MONKEYTYPE_USERNAME
+          username: codebyumar
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          themes: midnight
+          theme: midnight
