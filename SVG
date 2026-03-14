@@ -1,0 +1,2 @@
+- name: Monkeytype Readme
+  uses: monkeytype-hub/monkeytype-readme@v1.0.0
