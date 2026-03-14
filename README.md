@@ -33,11 +33,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
 </p>
 
-<p align="center">
-  <a href="https://monkeytype.com/profile/codebyumar">
-    <img src="https://raw.githubusercontent.com/codebyumar/codebyumar/monkeytype-readme/monkeytype-readme.svg" alt="Monkeytype Stats" />
-  </a>
-</p>
 
 <div align="center">
 <!-- <picture>
