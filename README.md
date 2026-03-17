@@ -1,7 +1,3 @@
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,50:c0c0c0,100:a0a0a0&height=120&section=header&text=🏆%20GitHub%20Trophies&fontSize=30&fontColor=000000&fontAlignY=65&animation=twinkling"/>
-
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
 > <samp><b>🛠️ Currently learning</b> | <kbd>Backend Development</kbd></samp>  
@@ -51,11 +47,7 @@
 </picture>
 </div>
 
-<div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a0a0a0,50:c0c0c0,100:e0e0e0&height=80&section=footer"/>
-
-</div>
 
 
 
