@@ -26,11 +26,13 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" title="Python"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
-<p align="start">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-umar&theme=tokyonight" height="150px" />
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="150px" />
+<div align="start">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-umar&theme=tokyonight" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="150px" />
+  
+  <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-umar&theme=tokyonight&hide_border=true&area=true&bg_color=1a1b26&hide_title=false" width="800px" />
+</div>
 
 
 <div align="center">
@@ -49,6 +51,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 </div>
+
 
 
 
