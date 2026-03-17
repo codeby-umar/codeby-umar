@@ -5,10 +5,10 @@
 
 
 <p align="left">
-  <a href="https://t.me/codingbyumar"><img src="https://img.shields.io/badge/Telegram-1D1D1D?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="35" /></a>&nbsp;
-  <a href="https://t.me/Codewithbyumar"><img src="https://img.shields.io/badge/Channel-1D1D1D?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="35" /></a>&nbsp;
-  <a href="https://www.youtube.com/@codebyumar"><img src="https://img.shields.io/badge/YouTube-1D1D1D?style=for-the-badge&logo=youtube&logoColor=FF0000" height="35" /></a>&nbsp;
-  <a href="https://www.instagram.com/codeby.umar/_"><img src="https://img.shields.io/badge/Instagram-1D1D1D?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" /></a>
+  <a href="https://t.me/byumardev"><img src="https://img.shields.io/badge/Telegram-1D1D1D?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="35" /></a>&nbsp;
+  <a href="https://www.youtube.com/@codeby-umar"><img src="https://img.shields.io/badge/YouTube-1D1D1D?style=for-the-badge&logo=youtube&logoColor=FF0000" height="35" /></a>&nbsp;
+   <a href="https://t.me/Codewithbyumar"><img src="https://img.shields.io/badge/Channel-1D1D1D?style=for-the-badge&logo=telegram&logoColor=26A5E4" height="35" /></a>&nbsp;
+  <a href="https://www.instagram.com/codeby.umar/"><img src="https://img.shields.io/badge/Instagram-1D1D1D?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" /></a>
 </p>
 
 ### 🛠️ Tech Stack
