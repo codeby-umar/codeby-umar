@@ -30,8 +30,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="150px" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codeby-umar&theme=tokyonight" height="150px" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="150px" />
-  
-  <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeby-umar&bg_color=000000&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true&animate=true" width="890px" />
 </div>
 
 
