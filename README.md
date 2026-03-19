@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="./video.mp4" width="100%" height="auto" autoplay loop muted playsinline>
+  <video src="https://github.com/user-attachments/assets/c59587a8-360a-4700-9286-620436d5423f" width="100%" autoplay loop muted playsinline style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
     Sizning brauzeringiz videoni qo'llab-quvvatlamaydi.
   </video>
 </div>
