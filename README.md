@@ -1,3 +1,7 @@
+<p align="center">
+  <video src="" width="100%" autoplay loop muted playsinline>
+  </video>
+</p>
 
 <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/zak41.png">
 
