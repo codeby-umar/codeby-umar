@@ -1,7 +1,8 @@
-<p align="center">
-  <video src="video.mp4" width="100%" autoplay loop muted playsinline>
+<div align="center">
+  <video src="./video.mp4" width="100%" height="auto" autoplay loop muted playsinline>
+    Sizning brauzeringiz videoni qo'llab-quvvatlamaydi.
   </video>
-</p>
+</div>
 
 <img src="https://raw.githubusercontent.com/zaka41a/zaka41a/main/assets/zak41.png">
 
