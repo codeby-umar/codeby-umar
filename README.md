@@ -1,5 +1,9 @@
-<p align="center">
+<!-- <p align="center">
   <img src="name-animation.gif" width="890" alt="Umar's Animation">
+</p> -->
+
+<p align="center">
+  <img src="photo.png" width="650" alt="Umar's Animation">
 </p>
 
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
