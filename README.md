@@ -60,6 +60,33 @@
 </picture>
 </div>
 
+# 👨‍💻 My Profile
+
+```javascript
+class Developer {
+  constructor() {
+    this.name = "Sizning Ismingiz";
+    this.role = "Node.js Backend Developer";
+    this.languages = ["JavaScript", "TypeScript", "Python", "SQL"];
+    this.motto = "Code is poetry, debugging is the struggle.";
+  }
+
+  getCurrentActivity() {
+    return "Building high-performance Node.js applications 🚀";
+  }
+
+  getSkills() {
+    return {
+      backend: ["Node.js", "Express", "NestJS"],
+      database: ["PostgreSQL", "MongoDB", "Redis"],
+      tools: ["Docker", "Git", "Nginx"]
+    };
+  }
+}
+
+const me = new Developer();
+console.log(me.getCurrentActivity());
+
 
 
 
