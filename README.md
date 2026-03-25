@@ -2,9 +2,19 @@
   <img src="name-animation.gif" width="890" alt="Umar's Animation">
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="photes.png" width="100%" alt="Umar's Animation">
-</p>
+</p> -->
+```json
+{
+    "name" : "Muhammad Umar",
+    "role" : "Fullstack Developer",
+    "stack" : ["Node.js 🚀","React ⚛️","JavaScript ✨"],
+    "location" : "Uzbekistan 🇺🇿",
+    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
+    "open_to_work": true
+}
+```
 
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
@@ -60,13 +70,4 @@
 </picture>
 </div>
 
-```json
-{
-    "name" : "Muhammad Umar",
-    "role" : "Fullstack Developer",
-    "stack" : ["Node.js 🚀","React ⚛️","JavaScript ✨"],
-    "location" : "Uzbekistan 🇺🇿",
-    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
-    "open_to_work": true
-}
-```
+
