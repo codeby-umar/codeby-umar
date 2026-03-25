@@ -1,20 +1,7 @@
-<!-- <p align="center">
-  <img src="name-animation.gif" width="890" alt="Umar's Animation">
-</p> -->
-
-<!-- <p align="center">
+<p align="center">
   <img src="photes.png" width="100%" alt="Umar's Animation">
-</p> -->
-```json
-{
-    "name" : "Muhammad Umar",
-    "role" : "Fullstack Developer",
-    "stack" : ["Node.js 🚀","React ⚛️","JavaScript ✨"],
-    "location" : "Uzbekistan 🇺🇿",
-    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
-    "open_to_work": true
-}
-```
+</p> 
+
 
 # <samp><span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> hi</span>, <span style="color:#22c55e;">I</span>'m <sub style="color: #3b82f6; animation: wiggle 2s infinite;">Muhammad Umar</sub></samp>
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
@@ -53,16 +40,18 @@
 
 <br/>
 
-<div align="center">
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" 
-  srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-  <source media="(prefers-color-scheme: light)" 
-  srcset="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true">
-  <img alt="github contribution grid snake animation" 
-  src="https://github.com/Samprit74/Samprit74/blob/output/github-contribution-grid-snake.svg?raw=true" width="100%">
-</picture> -->
+```json
+{
+    "name" : "Muhammad Umar",
+    "role" : "Fullstack Developer",
+    "stack" : ["Node.js","React","JavaScript"],
+    "location" : "Uzbekistan 🇺🇿",
+    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
+    "open_to_work": true
+}
+```
 
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
