@@ -62,11 +62,11 @@
 
 ```json
 {
-  "profile": {
-    "name": "Muhammad Umar",
-    "stack": "Node.js Backend React Javascript Frontend ",
-    "location": "Uzbekistan",
-    "hobbies": ["Coding", "Chess", "Learning new tech"],
+    "name" : "Muhammad Umar",
+    "role" : "Fullstack Developer",
+    "stack" : ["Node.js 🚀","React ⚛️","JavaScript ✨"],
+    "location" : "Uzbekistan 🇺🇿",
+    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
     "open_to_work": true
-  }
 }
+```
