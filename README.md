@@ -39,26 +39,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="150px" />
 </div>
 
-
 <br/>
 
-```json
-{
-    "name" : "Muhammad Umar",
-    "role" : "Fullstack Developer",
-    "stack" : ["Node.js","React","JavaScript"],
-    "location" : "Uzbekistan 🇺🇿",
-    "hobbies" : ["Coding 💻","Chess ♟️","Learning new tech 📚"],
-    "open_to_work": true
-}
-```
-
-<!-- <div align="center">
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
-</div> -->
+</div> 
 
 
