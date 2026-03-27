@@ -30,6 +30,7 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30px" title="Node.js"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30px" title="Express.js"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30px" title="MongoDB"></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30px" title="Docker"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" width="30px" title="GraphQL"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" title="Python"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
