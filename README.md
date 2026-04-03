@@ -2,7 +2,7 @@
   <img src="photes.png" width="100%" alt="Umar's Animation">
 </p>  -->
 <p align="center">
-  <img src="th.png" width="100%" alt="Umar's Animation">
+  <img src="kkol.png" width="100%" alt="Umar's Animation">
 </p> 
 
 
