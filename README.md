@@ -32,11 +32,21 @@
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30px" title="Python"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
-<p align="start">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-umar&theme=tokyonight" height="160" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="160" />
-</p>
+<div>
+  <table border="0">
+    <tr>
+      <td width="33%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="160" alt="Stats" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-umar&theme=tokyonight" height="160" alt="Languages" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="160" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
