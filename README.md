@@ -36,18 +36,18 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
 <div>
-  <table border="2">
-    <tr>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="160" alt="Stats" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-umar&theme=tokyonight" height="160" alt="Languages" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=tokyonight&utcOffset=5" height="160" alt="Productive Time" />
-      </td>
-    </tr>
-  </table>
+
+<table cellspacing="0" cellpadding="12">
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=github_dark" height="150" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-umar&theme=github_dark" height="150" alt="Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=github_dark&utcOffset=5" height="150" alt="Productive Time" />
+    </td>
+</table>
+
 </div>
 
