@@ -13,6 +13,7 @@
   <a href="https://www.instagram.com/codeby.umar/"><img src="https://img.shields.io/badge/Instagram-1D1D1D?style=for-the-badge&logo=instagram&logoColor=E4405F" height="35" /></a>
 </p>
 
+
 ### 🛠️ Tech Stack
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30px" title="HTML5"></code>
 <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30px" title="CSS3"></code>
@@ -33,7 +34,7 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="30px" title="Figma"></code>
 
 <div>
-  <table border="0">
+  <table border="2">
     <tr>
       <td width="33%" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=tokyonight" height="160" alt="Stats" />
