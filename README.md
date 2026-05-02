@@ -9,7 +9,7 @@
 
 
 
-### <span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Tech Stac</span> 
+### <span><img src="https://i.ibb.co/FLs3HL9K/giphy.gif" height="30px" width="30px"> Tech Stack</span> 
 
 <p align="center">
 
