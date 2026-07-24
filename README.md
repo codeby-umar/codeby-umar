@@ -33,7 +33,7 @@
 </p>
 
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iamumardevx&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamumardevx&theme=github_dark" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iamumardevx&theme=github_dark&utcOffset=5" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codeby-umar&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codeby-umar&theme=github_dark" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codeby-umar&theme=github_dark&utcOffset=5" height="150" />
 </p>
