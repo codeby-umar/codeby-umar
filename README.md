@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="ban.png" width="100%">
-</p>
+
 
 
 > <samp><b>💻 Frontend Developer</b> | 1 years of experience</samp>  
